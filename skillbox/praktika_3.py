@@ -1,0 +1,7 @@
+one_kvartal = int(input('Введите доход первого квартала '))
+two_kvartal = int(input('Введите доход второго квартала '))
+three_kvartal = int(input('Введите доход третьего квартала '))
+four_kvartal = int(input('Введите доход четвёртого квартала '))
+print ('=======================')
+print ('Суммма первого и второго квартала' , one_kvartal + two_kvartal, 'руб')
+print ('Суммма третьего и четвёртого квартала', three_kvartal + four_kvartal, 'руб')
